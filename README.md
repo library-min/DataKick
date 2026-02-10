@@ -18,7 +18,7 @@
 | Category | Technology | Usage |
 | :--- | :--- | :--- |
 | **Language** | Java 17 | 주요 비즈니스 로직 구현 |
-| **Framework** | Spring Boot 3.x | REST API 서버 및 배치 처리 |
+| **Framework** | Spring Boot 3.4.1 | REST API 서버 및 배치 처리 |
 | **Database** | MySQL 8.0 | 관계형 데이터 저장 (팀, 선수, 경기, 베팅 기록) |
 | **Cache / NoSQL** | **Redis** | 실시간 스코어 캐싱, 베팅 랭킹(Sorted Set) 구현 |
 | **ORM** | Spring Data JPA / QueryDSL | 복잡한 통계 쿼리 및 동적 쿼리 처리 |
