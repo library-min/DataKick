@@ -1,8 +1,7 @@
 # ⚽ DataKick (데이터킥)
-> **Advanced European Football Analytics & Prediction Platform** > **유럽 5대 리그 데이터 분석, 승패 예측, 그리고 실시간 트래픽 처리를 위한 백엔드 엔지니어링 프로젝트**
+**유럽 5대 리그 데이터 분석, 승패 예측, 그리고 실시간 트래픽 처리를 위한 백엔드 엔지니어링 프로젝트**
 
 ![Java](https://img.shields.io/badge/Java-17-blue?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-green?style=flat-square&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-Live%20Score-red?style=flat-square&logo=redis&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-Monitoring-F46800?style=flat-square&logo=grafana&logoColor=white)
